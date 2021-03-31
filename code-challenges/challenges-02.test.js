@@ -21,7 +21,15 @@ const raisedToTheThird = (arr) => {
 CHALLENGE 2
 
 Write a function that appends ' The end.' to a string, and returns the modified string. The original source string should not be modified.
+describe('Testing challenge 2', () => {
+  test('It should append without modifying the oiginal', () => {
+    const a = 'This is my story.';
+    const b = appendTheEnd(a);
 
+    expect(a).toStrictEqual('This is my story.');
+    expect(b).toStrictEqual('This is my story. The end.');
+  });
+});
 ------------------------------------------------------------------------------------------------ */
 
 const appendTheEnd = (str) => {

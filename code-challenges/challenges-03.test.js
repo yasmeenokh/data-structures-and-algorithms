@@ -62,10 +62,8 @@ describe('Testing challenge 2', () => {
 const sortNames = (arr) => {
   // Solution code here...
   return arr.sort((a, b) => {
-    if (a.toUpperCase() < b.toLowerCase()) return -1;
-    if (a.toUpperCase() > b.toLowerCase()) return 1;
-
-
+    if (a < b) return -1;
+    if (a > b) return 1;
   });
 
 };
