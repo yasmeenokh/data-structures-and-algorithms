@@ -11,7 +11,6 @@ const replaceZeros = (string) => {
   // Solution code here...
   return string.replace(/0/g,'zero');
 };
-
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 2
 
