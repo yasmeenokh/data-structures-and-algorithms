@@ -19,5 +19,7 @@ Each day, you'll add one new file to this folder to do your work for the day's a
 ### Reverse an Array:
 
 Writing a function that reverse a given array without using .reverse built in method.
+
 **Whiteboard Process :** [Miro](images/codeChallenge1.jpg)
+
 **Approach & Efficiency :** break down the problem into smaller problems, step by step build the full function, it didn't take long, it took about 30 min.
