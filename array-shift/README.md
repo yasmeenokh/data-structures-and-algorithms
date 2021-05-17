@@ -4,7 +4,7 @@
 
 [challenge board](https://miro.com/app/board/o9J_lDn-49o=/)
 
-![Miro](/images/codeChallenge02.jpg)
+![Miro](/images/codechallenge02.jpg)
 
 
 ### Insert and shift an array in middle index.
