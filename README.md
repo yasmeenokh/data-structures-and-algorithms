@@ -16,10 +16,7 @@ Each day, you'll add one new file to this folder to do your work for the day's a
 * Please follow the instructions specific to your 401 language, which can be found in the directory below, matching your course.
 
 ## 401 Code Challenges : 
-### Reverse an Array:
 
-Writing a function that reverse a given array without using .reverse built in method.
+### Table of Contents :
 
-**Whiteboard Process :** [Miro](images/codeChallenge1.jpg)
-
-**Approach & Efficiency :** break down the problem into smaller problems, step by step build the full function, it didn't take long, it took about 30 min.
+Reverse an Array  | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/main/array-reverse/README.md)
