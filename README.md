@@ -22,3 +22,4 @@ Each day, you'll add one new file to this folder to do your work for the day's a
 Challenge Name    | README Link
 ------------------|------------------------------------------------------------------------------------------------------------
 Reverse an Array  | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/main/array-reverse/README.md)
+shift an array    | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/main/array-shift/README.md)
