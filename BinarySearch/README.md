@@ -9,22 +9,8 @@
 
 
 
-<<<<<<< HEAD
+
 ![Miro2](/lab03b3.jpg)
-=======
-
-
-
-
-
-
-
-
-![Miro2](/images/lab03b3.jpg)
->>>>>>> e892a0b39c62aaa19e335c5bb4ab772455edb9af
-
-
-
 
 
 
