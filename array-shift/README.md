@@ -6,6 +6,10 @@
 
 ![Miro](/images/codechallenge02.jpg)
 
+
+
+
+
 ![Miro2](/images/lab03b2.jpg)
 
 
