@@ -10,7 +10,7 @@
 
 
 
-![Miro2](/lab03b2.jpg)
+![Miro2](lab03b2.jpg)
 
 
 ### Insert and shift an array in middle index.
