@@ -6,7 +6,7 @@
 
 ![Miro](/images/codeChallenge03.jpg)
 
-![Miro](/images/lab03b3.jpg)
+![Miro2](/images/lab03b3.jpg)
 
 
 
