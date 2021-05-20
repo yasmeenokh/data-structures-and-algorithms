@@ -21,3 +21,5 @@ function binarySearch(arr, val) {
 }
 let testArray = [1,2,45,40,50,70];
 binarySearch(testArray, 70);
+
+module.exports = binarySearch;

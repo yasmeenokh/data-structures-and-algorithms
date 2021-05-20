@@ -6,13 +6,9 @@
 
 ![Miro](/images/codeChallenge03.jpg)
 
-
-
-
-
 ![Miro2](lab03b3.jpg)
 
-
+![test](codechallenge03Test.png)
 
 ### Insert and shift an array in middle index.
 
