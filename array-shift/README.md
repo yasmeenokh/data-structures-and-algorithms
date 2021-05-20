@@ -6,11 +6,9 @@
 
 ![Miro](/images/codechallenge02.jpg)
 
-
-
-
-
 ![Miro2](lab03b2.jpg)
+
+![test](insertShiftArraytest.png)
 
 
 ### Insert and shift an array in middle index.

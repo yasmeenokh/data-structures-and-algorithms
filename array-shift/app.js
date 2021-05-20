@@ -16,3 +16,5 @@ function insertShiftArray(arr, addedNum) {
 }
 
 insertShiftArray(numArray,50);
+
+module.exports = insertShiftArray;
