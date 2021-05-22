@@ -19,7 +19,7 @@ From the root of the `data-structures-and-algorithms` folder, execute the follow
 - **Run every possible test** - `npm test`
 - **Run a test for a data structure** - `npm test linked-list`
 
-![test](/images/codeChallenge05.png)
+![test](images/codeChallenge05.png)
 
 #### Live Tests
 
@@ -28,5 +28,5 @@ Note that when you check your code into GitHub, all of your tests will automatic
 
 # Whiteboard:
 
-![WhiteBoard](/images/codeChallenge05WhiteB.png)
+![WhiteBoard](images/codeChallenge05WhiteB.png)
 
