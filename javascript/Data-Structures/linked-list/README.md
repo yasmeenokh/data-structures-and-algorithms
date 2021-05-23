@@ -30,3 +30,13 @@ Note that when you check your code into GitHub, all of your tests will automatic
 
 ![WhiteBoard](images/Code-Challenge-05.png)
 
+## lab 06 : LL Insertion
+
+## Test for the insertion 
+![test](images/codeChallenge06test.png)
+
+# Whiteboard:
+
+![WhiteBoard](images/CodeChallenge06.png)
+
+
