@@ -68,3 +68,35 @@ describe('Linked List Insertion', ()=>{
   });
 });
 
+describe('LL Kth From End', ()=>{
+  let List2 = new LinkedList;
+  List2.insert(3);
+  List2.insert(2);
+  List2.insert(1);
+
+  it('Should return an exception if k is bigger than the ll or less than 0 ', ()=>{
+    let test =  List2.kthFromEnd(-1);
+    let test2 = List2.kthFromEnd(8);
+    let test3 = List2.kthFromEnd(4);
+    expect(test).toBe('Exception, The value entered is bigger or smaller then the LL');
+    expect(test2).toBe('Exception, The value entered is bigger or smaller then the LL');
+    expect(test3).toBe('Exception, The value entered is bigger or smaller then the LL');
+
+  });
+  it('Should find the k Where the linked list is of a size 1', ()=>{
+    let List3 = new LinkedList;
+    List3.insert(1);
+    let test =  List3.kthFromEnd(0);
+    expect(test).toBe(1);
+  });
+  it('Should find the k where k is not at the end, but somewhere in the middle of the linked list', ()=>{
+    let test =  List2.kthFromEnd(0);
+    let test2 = List2.kthFromEnd(1);
+    let test3 = List2.kthFromEnd(2);
+
+    expect(test).toBe(3);
+    expect(test2).toBe(2);
+    expect(test3).toBe(1);
+
+  });
+});

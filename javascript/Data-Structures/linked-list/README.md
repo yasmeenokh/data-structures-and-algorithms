@@ -39,4 +39,6 @@ Note that when you check your code into GitHub, all of your tests will automatic
 
 ![WhiteBoard](images/CodeChallenge06.png)
 
+# Whiteboard:
 
+![WhiteBoard](images/codechallenge07.png)
