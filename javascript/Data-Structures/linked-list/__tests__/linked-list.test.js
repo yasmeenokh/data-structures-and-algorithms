@@ -3,6 +3,8 @@
 const Node = require('../node.js');
 const LinkedList = require('../linked-list.js');
 let linkedList = new LinkedList;
+let zipLists = require('../ll-zip.js');
+let zippedList = new LinkedList; 
 
 describe('Linked List file test', ()=>{
   it('Should  successfully instantiate an empty linked list', ()=>{
@@ -99,4 +101,27 @@ describe('LL Kth From End', ()=>{
     expect(test3).toBe(1);
 
   });
+});
+
+describe('Linked List zip', ()=>{
+
+  it('It should be able to join 2 Linked list and return their head', ()=>{
+    let list1 = new LinkedList;
+    let list2 = new LinkedList;
+
+    list1.insert(1);
+    list1.insert(2);
+
+    list2.insert(3);
+    list2.insert(4);
+
+    zipLists(list1, list2);
+    expect(zipLists(list1, list2).head.value).toEqual(2);
+    expect(zipLists(list1, list2).head.next.value).toEqual(4);
+    expect(zipLists(list1, list2).head.next.next.value).toBe(1);
+    expect(zipLists(list1, list2).head.next.next.next.value).toBe(3);
+
+
+  });
+
 });
