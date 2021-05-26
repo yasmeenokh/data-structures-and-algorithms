@@ -39,6 +39,14 @@ Note that when you check your code into GitHub, all of your tests will automatic
 
 ![WhiteBoard](images/CodeChallenge06.png)
 
+## lab 07 : kthFromEnd
 # Whiteboard:
 
 ![WhiteBoard](images/codechallenge07.png)
+
+## lab 08 : Linked List Zip 
+
+# Whiteboard: 
+
+![WhiteBoard](images/codeChallenge08.png)
+

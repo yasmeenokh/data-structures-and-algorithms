@@ -111,7 +111,10 @@ class LinkedList {
         }else{
           requested = requested.next;
         }}}
+  }
+}
 
-  }}
+
 
 module.exports = LinkedList;
+
