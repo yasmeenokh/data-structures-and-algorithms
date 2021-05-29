@@ -24,5 +24,6 @@ Challenge Name    | README Link
 Reverse an Array  | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/main/array-reverse/README.md)
 shift an array    | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/main/array-shift/README.md)
 BinarySearch   | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/main/BinarySearch/README.md)
-Linked List   | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/main/javascript/README.md)
+Linked List   | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/tree/main/javascript/Data-Structures/linked-list)
+Stacks And Queues   | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/stack-and-queue/javascript/Data-Structures/stacksAndQueues/README.md)
 
