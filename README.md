@@ -26,4 +26,5 @@ shift an array    | [README FILE](https://github.com/yasmeenokh/data-structures-
 BinarySearch   | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/main/BinarySearch/README.md)
 Linked List   | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/tree/main/javascript/Data-Structures/linked-list)
 Stacks And Queues   | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/stack-and-queue/javascript/Data-Structures/stacksAndQueues/README.md)
+Queues With Stacks   | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/main/javascript/Data-Structures/queueWithStacks/README.md)
 
