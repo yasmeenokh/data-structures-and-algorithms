@@ -12,4 +12,4 @@ dequeue(pref): returns either a dog or a cat. If pref is not "dog" or "cat" then
 
 ![test](images/codeChallenge12test.png)
 
-![Whiteboard](images/codeChallenge12test.png)
+![Whiteboard](images/codeChallenge12.png)
