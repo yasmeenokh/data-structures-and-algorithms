@@ -29,3 +29,4 @@ Stacks And Queues   | [README FILE](https://github.com/yasmeenokh/data-structure
 Queues With Stacks   | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/main/javascript/Data-Structures/queueWithStacks/README.md)
 Queues With Stacks   | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/main/javascript/Data-Structures/queueWithStacks/README.md)
 Fifo-Animal-Shelter  | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/main/javascript/Data-Structures/fifoAnimalShelter/README.md)
+Multi-Bracket-Validation | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/main/javascript/Data-Structures/multiBracketValidation/README.md)
