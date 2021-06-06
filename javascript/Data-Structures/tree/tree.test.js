@@ -40,6 +40,9 @@ describe('Binary Tree Test', ()=>{
     let postOrdered = tree.postOrder();
     expect(postOrdered).toEqual(expected);
   });
+  it('Should return the maximum value is the tree', ()=>{
+    expect(tree.findMaximumValue()).toEqual(12);
+  });
 });
 
 describe('BinarySearchTree TEST', ()=>{
@@ -60,6 +63,4 @@ describe('BinarySearchTree TEST', ()=>{
     expect(tree.contains(10)).toEqual(true);
     expect(tree.contains(8)).toEqual(false);
   });
-
-
 });

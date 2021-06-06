@@ -14,3 +14,12 @@
 # Whiteboard:
 
 ![WhiteBoard](images/CodeChallenge15.png)
+
+### Find Max Value :
+
+![WhiteBoard](images/codeChallenege16whiteB.jpg)
+
+![test](images/codeChallenege16Test.jpg)
+
+
+
