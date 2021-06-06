@@ -50,20 +50,20 @@ class BinarySearchTree{
     this.root = root;
   }
   add(value){
-    let newNode = new Node(value);
+    let node = new Node(value);
     if(this.root === null){
-      this.root = newNode;
+      this.root = node;
     }
     let traverse = (newNode)=>{
       if(value < newNode.value ){
         if(newNode.left === null){
-          newNode.left = value;
+          newNode.left = node;
         }
         traverse(newNode.left);
       }
       if(value > newNode.value){
         if(newNode.right === null){
-          newNode.right = value;
+          newNode.right = node;
         }
         traverse(newNode.right);
       }
@@ -72,22 +72,16 @@ class BinarySearchTree{
   }
 
   contains(value) {
-    let root = this.root;
-    if (root) {
-      if (value < root.value) {
-        root = root.left;
-        if(root.value === value ){
-          return true;
-        }}
-      if (value > root.value) {
-        root = root.right;
-      } if(root.value === value ){
-        return true;
-      }}
+    let root=this.root;
+    if(!root) return 'the tree is null';
+    while (root) {
+      if(value<root.value) root=root.left;
+      else if (value>root.value) root=root.right;
+      else if(value === root.value) return true;
+    }
     return false;
   }
 }
-
 
 
 

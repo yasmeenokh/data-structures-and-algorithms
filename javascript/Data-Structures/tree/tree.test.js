@@ -51,12 +51,13 @@ describe('BinarySearchTree TEST', ()=>{
     tree.add(4);
     console.log(tree);
     expect(tree.root.value).toEqual(5);
-    expect(tree.root.left).toEqual(4);
-    expect(tree.root.right).toEqual(10);
+    expect(tree.root.left.value).toEqual(4);
+    expect(tree.root.right.value).toEqual(10);
   });
 
   it('Should be able to tell if a value is within tree or not', ()=>{
     expect(tree.contains(5)).toEqual(true);
+    expect(tree.contains(10)).toEqual(true);
     expect(tree.contains(8)).toEqual(false);
   });
 
