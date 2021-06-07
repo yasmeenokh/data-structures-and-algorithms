@@ -43,6 +43,11 @@ describe('Binary Tree Test', ()=>{
   it('Should return the maximum value is the tree', ()=>{
     expect(tree.findMaximumValue()).toEqual(12);
   });
+  it('Should Traverse Tree Using breadth first traversal ', ()=>{
+    let expected = [4,10,2,12,8,3,1];
+    let breadthFirst = tree.breadthFirst();
+    expect(breadthFirst).toEqual(expected);
+  });
 });
 
 describe('BinarySearchTree TEST', ()=>{
