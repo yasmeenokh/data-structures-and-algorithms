@@ -31,4 +31,4 @@ Queues With Stacks   | [README FILE](https://github.com/yasmeenokh/data-structur
 Fifo-Animal-Shelter  | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/main/javascript/Data-Structures/fifoAnimalShelter/README.md)
 Multi-Bracket-Validation | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/main/javascript/Data-Structures/multiBracketValidation/README.md)
 TREE | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/main/javascript/Data-Structures/tree/README.md)
-
+Fizz-Buzz-tree | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/main/javascript/Data-Structures/tree/fizzbuzz-tree/README.md)
