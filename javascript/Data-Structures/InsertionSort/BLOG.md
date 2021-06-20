@@ -2,6 +2,8 @@
 
 Insertion Sort is one of the simpler sorting algorithms. It's highly intuitive, stable, in-place, and of comparison-type. A stable sorting algorithm is an algorithm in which two objects with equal keys appear in the same order in sorted output as they appear in the input array to be sorted.
 
+[README-FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/InsertionSort/javascript/Data-Structures/InsertionSort/README.md)
+
 # Pseudocode
 
     InsertionSort(int[] arr)
@@ -42,6 +44,8 @@ The fifth time now our array is equal to [4,8,23,42,16,15]; where i=5 and j=4, s
 
 
 ## Efficiency
+
 **Time:** O(n^2)
+
 **Space:** O(1)
 
