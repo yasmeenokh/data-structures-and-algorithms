@@ -32,3 +32,4 @@ Fifo-Animal-Shelter  | [README FILE](https://github.com/yasmeenokh/data-structur
 Multi-Bracket-Validation | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/main/javascript/Data-Structures/multiBracketValidation/README.md)
 TREE | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/main/javascript/Data-Structures/tree/README.md)
 Fizz-Buzz-tree | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/main/javascript/Data-Structures/tree/fizzbuzz-tree/README.md)
+Insertion Sort  | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/main/javascript/Data-Structures/InsertionSort/README.md)

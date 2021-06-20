@@ -38,7 +38,7 @@ The fifth time now our array is equal to [4,8,23,42,16,15]; where i=5 and j=4, s
 
 
 
-[BLOG](images/code26Blog.jpg)
+![BLOG](images/code26Blog.jpg)
 
 
 ## Efficiency

@@ -8,9 +8,9 @@ Review the pseudocode below, then trace the algorithm by stepping through the pr
 - **Run a test for a data structure** - `npm test insertionTest.test.js `
 
 ## Test 
-[Test](images/codeTest26.png)
+![Test](images/codeTest26.png)
 
 
 ## WhiteBoard
-[WhiteBoard](images/Code26.png)
+![WhiteBoard](images/Code26.png)
 
