@@ -2,7 +2,7 @@
 
 Merge sort is a sorting algorithm that uses the “divide and conquer” concept. Given an array, we first divide it in the middle and we get 2 arrays. We recursively perform this operation, until we get to arrays of 1 element. Then we start building up the sorted array from scratch, by ordering the individual items we got.
 
-[README-FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/InsertionSort/javascript/Data-Structures/mergeSort/README.md)
+[README-FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/mergeSort/javascript/Data-Structures/mergeSort/README.md)
 
 # Pseudocode
 
