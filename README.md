@@ -33,3 +33,4 @@ Multi-Bracket-Validation | [README FILE](https://github.com/yasmeenokh/data-stru
 TREE | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/main/javascript/Data-Structures/tree/README.md)
 Fizz-Buzz-tree | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/main/javascript/Data-Structures/tree/fizzbuzz-tree/README.md)
 Insertion Sort  | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/main/javascript/Data-Structures/InsertionSort/README.md)
+Merge Sort      | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/main/javascript/Data-Structures/mergeSort/README.md)
