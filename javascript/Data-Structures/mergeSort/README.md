@@ -7,7 +7,7 @@ Review the pseudocode below, then trace the algorithm by stepping through the pr
 ## Language: `JavaScript`
 
 - **Run every possible test** - `npm test`
-- **Run a test for a data structure** - `npm test insertionTest.test.js `
+- **Run a test for a data structure** - `npm test mergeSort.test.js `
 
 ## Test 
 ![Test](images/code27Test.png)
