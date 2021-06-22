@@ -3,7 +3,7 @@
 is a divide-and-conquer algorithm. It works by selecting a 'pivot' element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot. For this reason, it is sometimes called **partition-exchange sort.**
 
 
-[README-FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/mergeSort/javascript/Data-Structures/QuickSort/README.md)
+[README-FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/QuickSort/javascript/Data-Structures/QuickSort/README.md)
 
 ## Pseudocode
 
