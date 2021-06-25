@@ -35,3 +35,4 @@ Fizz-Buzz-tree | [README FILE](https://github.com/yasmeenokh/data-structures-and
 Insertion Sort  | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/main/javascript/Data-Structures/InsertionSort/README.md)
 Merge Sort      | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/main/javascript/Data-Structures/mergeSort/README.md)
 Merge Sort      | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/QuickSort/javascript/Data-Structures/QuickSort/README.md)
+Merge Sort      | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/Hashtable/javascript/Data-Structures/Hashtable/README.md)
