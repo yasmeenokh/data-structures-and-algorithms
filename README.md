@@ -37,3 +37,4 @@ Merge Sort      | [README FILE](https://github.com/yasmeenokh/data-structures-an
 Quick Sort      | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/QuickSort/javascript/Data-Structures/QuickSort/README.md)
 Hash Table      | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/Hashtable/javascript/Data-Structures/Hashtable/README.md)
 Hashmap Repeated Word      | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/hashmap-repeated-word/javascript/Data-Structures/hashmap-repeated-word/README.md)
+Hashmap Intersection     | [README FILE](https://github.com/yasmeenokh/data-structures-and-algorithms/blob/main/javascript/Data-Structures/hashmap-tree-intersection/README.md)
