@@ -47,4 +47,5 @@ Note that when you check your code into GitHub, all of your tests will automatic
 
 # Whiteboard:
 
-![WhiteBoard](images/Code30.png)
+![WhiteBoard](images/Code30b.png)
+
